@@ -1,0 +1,4 @@
+.vscode/
+.idea/
+venv/
+domains.db
